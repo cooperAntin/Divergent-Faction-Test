@@ -4,11 +4,11 @@ This program acts as a sort of quiz to sort the user into one of three Factions,
 and the faction the user is sorted into is meant to represent what quality best describes that person or is most important to that person. There are five possible Factions that the quiz 
 my sort the user into:
 
-AMNITY- Kind, forgiving, peaceful
-ABNEGATION- Selfless
-CANDOR- Honest, open
-DAUNTLESS- Brave
-EURADITE- Intelligent 
+AMNITY- Kind, forgiving, peaceful  
+ABNEGATION- Selfless  
+CANDOR- Honest, open  
+DAUNTLESS- Brave  
+EURADITE- Intelligent   
 
 Alternatively, like in the series 'Divergent', a person can be classified as 'Divergent', a person who fits into multiple categories. However, also like the in the series, the chances of being sorted as such are 
 immensley improbable.
