@@ -8,7 +8,7 @@ AMNITY- Kind, forgiving, peaceful
 ABNEGATION- Selfless  
 CANDOR- Honest, open  
 DAUNTLESS- Brave  
-EURADITE- Intelligent   
+ERUDITE- Intelligent   
 
 Alternatively, like in the series 'Divergent', a person can be classified as 'Divergent', a person who fits into multiple categories. However, also as in the series, the chances of being sorted as such are 
 immensley improbable.
