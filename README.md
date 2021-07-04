@@ -10,6 +10,6 @@ CANDOR- Honest, open
 DAUNTLESS- Brave
 EURADITE- Intelligent 
 
-Alternativly, like in the series 'Divergent', a person can be classified as 'Divergent', a person who fits into multiple categories. However, also like the in the series, the chances of being sorted as such are 
+Alternatively, like in the series 'Divergent', a person can be classified as 'Divergent', a person who fits into multiple categories. However, also like the in the series, the chances of being sorted as such are 
 immensley improbable.
 
