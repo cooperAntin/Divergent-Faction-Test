@@ -1,4 +1,4 @@
-# Divergent-Faction-Test
+# Run Instructions
 
 
 1.) Clone repository from Github to local Desktop
