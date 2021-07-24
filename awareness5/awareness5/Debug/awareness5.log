@@ -1,0 +1,17 @@
+﻿  awareness5.cpp
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(796,26): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(820,26): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(844,26): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(868,26): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(891,26): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(906,26): warning C4805: '==': unsafe mix of type 'bool' and type 'int' in operation
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(929,26): warning C4805: '==': unsafe mix of type 'bool' and type 'int' in operation
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(952,26): warning C4805: '==': unsafe mix of type 'bool' and type 'int' in operation
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(975,26): warning C4805: '==': unsafe mix of type 'bool' and type 'int' in operation
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(998,26): warning C4805: '==': unsafe mix of type 'bool' and type 'int' in operation
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(96): warning C4715: 'checkType': not all control paths return a value
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(221): warning C4715: 'returnIntValue': not all control paths return a value
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(284): warning C4715: 'boolSolve': not all control paths return a value
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(189): warning C4715: 'matchVariable': not all control paths return a value
+C:\Users\coope\source\repos\awareness5\awareness5\awareness5.cpp(1016): warning C4715: 'compare': not all control paths return a value
+  awareness5.vcxproj -> C:\Users\coope\source\repos\awareness5\Debug\awareness5.exe

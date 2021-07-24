@@ -1,0 +1,12 @@
+int c = 5 ;
+int a = 3 ;
+int b = 6 ;
+
+bool h = true;
+bool g = false;
+
+bool d = false;
+
+
+if( h == true){ a = 1 + a  } else { h = h }
+if( h == false){ a = 2 + 1 } else { a = 0 + 0 }
