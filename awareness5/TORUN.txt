@@ -1,0 +1,7 @@
+To Run:
+
+1) Clone repository
+
+2) In the Debug file, under directory Divergent-Faction-Test\awareness5\Debug, click awareness5.exe 
+
+3) Command prompt will open and run repeatedly untill user presses 'k' followed by enter
