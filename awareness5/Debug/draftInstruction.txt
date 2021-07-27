@@ -1,0 +1,1 @@
+int a = 5 ;int b = 3 ;int c = 6 ;bool g = true;bool d = false;bool h = false;if( d == true){ c = 1 + b  } else { h = g }if( d == false){ b = 2 + 1 } else {a = 0 + 0 }
